@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seungmin/github-classroom/Harper-College-Vandrevala-Classrooms/meet-in-the-middle-sungm97",
+      "program": "/Users/seungmin/github-classroom/Harper-College-Vandrevala-Classrooms/meet-in-the-middle-sungm97/build/Debug/outDebug"
+    }
+  ]
+}
